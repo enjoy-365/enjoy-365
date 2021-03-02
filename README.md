@@ -1,4 +1,8 @@
 ### Hi there 👋
+<hr>
+
+#### 🌱 I’m currently learning ...
+OS, DBMS, EMBEDDED SYSTEMS
 
 <!--
 **enjoy-365/enjoy-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
